@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/ShenodaAdel" target="_blank"><img src="https://img.shields.io/badge/-Shenoda%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shenoda-adel-74329b256/" target="_blank"><img src="https://img.shields.io/badge/-Shenoda%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenodaadel&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
